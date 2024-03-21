@@ -16,9 +16,8 @@ To launch the game, execute the following command:
 ```bash
 python main.py  
 ```
-
-### Known Issues
-During the game launch, some errors may appear in the console, but they do not affect the gameplay experience.
+> [!WARNING]
+> During the game launch, some errors may appear in the console, but they do not affect the gameplay experience.
 
 ## Constraints of the Project :
 
@@ -64,4 +63,5 @@ Manages a life bonus that appears at the top of the canvas.
 Manages a powerful shooting bonus.
 
 ## Disclaimer
-Certain details have not been discussed in this explanation as they are not crucial for understanding the game. Refer to the commented program for more details. Errors may appear in the console at times but do not affect the game's functionality. These errors are often due to the destruction of elements in different frames.
+> [!IMPORTANT]
+> Certain details have not been discussed in this explanation as they are not crucial for understanding the game. Refer to the commented program for more details. Errors may appear in the console at times but do not affect the game's functionality. These errors are often due to the destruction of elements in different frames.
