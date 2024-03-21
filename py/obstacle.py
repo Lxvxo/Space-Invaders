@@ -1,6 +1,6 @@
 # coding : utf-8
 """
-Auteur : SINGARIN-SOLE Livio, PHENG Julien
+Auteur : SINGARIN-SOLE Livio
 Date de création : 13/12/2022
 Objectif générale : TP-Créer un jeu, le space invaders
 Objectif du fichier : Classe Obstacle
